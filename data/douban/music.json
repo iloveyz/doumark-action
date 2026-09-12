@@ -1,0 +1,71 @@
+[
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2026-09-12 09:31:17",
+		"id": 4942522570,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/music/38574014 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/38574014/interest/4942522570",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"card_subtitle": "ADÉLA / 2026",
+			"color_scheme": {
+				"_base_color": [
+					0.975,
+					0.6666666666666666,
+					0.23529411764705882
+				],
+				"_avg_color": [
+					0.9782608695652174,
+					0.2555555555555556,
+					0.7058823529411765
+				],
+				"primary_color_light": "a53747",
+				"primary_color_dark": "7f2a37",
+				"secondary_color": "f9f4f5",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/music/38574014.jpg",
+			"genres": [
+				"流行"
+			],
+			"id": "38574014",
+			"is_playable": false,
+			"is_released": true,
+			"is_show": false,
+			"null_rating_reason": "暂无评分",
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/m/public/s35576483.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/s/public/s35576483.jpg"
+			},
+			"pubdate": [
+				"2026-09-04"
+			],
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/music/38574014",
+			"singer": [
+				{
+					"name": "ADÉLA"
+				}
+			],
+			"subtype": "music",
+			"title": "PRIMA",
+			"type": "music",
+			"uri": "douban://douban.com/music/38574014",
+			"url": "https://music.douban.com/subject/38574014/"
+		},
+		"tags": [],
+		"vote_count": 0
+	}
+]

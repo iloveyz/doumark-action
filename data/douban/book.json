@@ -1,0 +1,81 @@
+[
+	{
+		"charts": [],
+		"comment": "",
+		"create_time": "2026-09-12 09:30:24",
+		"id": 4942522225,
+		"is_editable": false,
+		"is_private": false,
+		"platforms": [],
+		"rating": null,
+		"sharing_text": "https://www.douban.com/doubanapp/dispatch/book/38391744 来自@豆瓣App",
+		"sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/38391744/interest/4942522225",
+		"status": "done",
+		"subject": {
+			"article_intros": [],
+			"author": [
+				"[英] 约翰·勒卡雷"
+			],
+			"book_subtitle": "",
+			"buy_more_uri": "",
+			"card_subtitle": "[英] 约翰·勒卡雷 / 2026 / 上海译文出版社",
+			"color_scheme": {
+				"_base_color": [
+					0.049295774647887335,
+					0.9102564102564102,
+					0.9176470588235294
+				],
+				"_avg_color": [
+					0.05397727272727274,
+					0.8380952380952381,
+					0.8235294117647058
+				],
+				"primary_color_light": "a53b0e",
+				"primary_color_dark": "7f2d0b",
+				"secondary_color": "f9f6f4",
+				"is_dark": true
+			},
+			"controversy_reason": "",
+			"cover_url": "https://dou.img.lithub.cc/book/38391744.jpg",
+			"has_ebook": false,
+			"honor_infos": [],
+			"id": "38391744",
+			"intro": "★ 勒卡雷间谍小说巅峰作品之一，获1977年英国推理作家协会金匕首奖\n★ 爱情、谋杀、毒品，东南亚暗潮涌动；当史迈利与卡拉的对决进入白热化，暴露的是赤裸的人性欲望、两难的道德困境、暧昧的善恶定义……以及一个非黑非白的间谍世界。\n-------------------------------------------------------------------------------------------------------------------\n勒卡雷久负盛名的“史迈利三部曲”第二部：在揪出了潜伏在英国情报组织中的双面间谍后，乔治·史迈利临危受命，一边重建“圆场”，一边试图在东南亚开展一次反击行动。史迈利抽丝剥茧，循线得知敌方情报头子卡拉在东方进行神秘勾当，即刻派出他的“荣誉学生”杰里·韦斯特比前往亚洲完成特别任务。杰里表面上是个风流成性的记者，实则是一名兼职特工。他巧妙地潜入一个被战争撕裂的世界，在那里，忠诚乃至生命都可以被买卖。",
+			"is_released": true,
+			"is_show": false,
+			"min_sale_price": null,
+			"null_rating_reason": "暂无评分",
+			"other_versions_count": 4,
+			"pages": [
+				"744"
+			],
+			"pic": {
+				"large": "https://img3.doubanio.com/view/subject/l/public/s35579753.jpg",
+				"normal": "https://img3.doubanio.com/view/subject/m/public/s35579753.jpg"
+			},
+			"press": [
+				"上海译文出版社"
+			],
+			"pubdate": [
+				"2026-8"
+			],
+			"rating": {
+				"count": 0,
+				"max": 10,
+				"star_count": 0,
+				"value": 0
+			},
+			"sharing_url": "https://www.douban.com/doubanapp/dispatch/book/38391744",
+			"subtype": "book",
+			"title": "荣誉学生",
+			"type": "book",
+			"uri": "douban://douban.com/book/38391744",
+			"url": "https://book.douban.com/subject/38391744/",
+			"vendor_icons": [],
+			"vendor_original_price": "",
+			"vendor_sale_price": ""
+		},
+		"tags": [],
+		"vote_count": 0
+	}
+]
